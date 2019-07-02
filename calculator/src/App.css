@@ -1,0 +1,32 @@
+.App {
+  padding: 3%;
+  text-align: center;
+}
+
+.result{
+  background-color: gray;
+  height: 80px;
+  width:100%;
+ 
+
+}
+.result p {
+  font-size: 40px;
+  color: white;
+}
+
+.keyboard{
+  display: inline-block;
+}
+
+.keyboard button{
+  width: 25%;
+  height: 90px;
+  font-size: 30px;
+  background-color: bisque;
+}
+
+.calculator{
+  max-width: 400px;
+  margin: auto;
+}
